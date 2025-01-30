@@ -13,8 +13,3 @@ It includes:
 ✔ Creates orders with different amounts.  
 ✔ Determines discount eligibility based on user type and order amount.  
 ✔ Tests all functionalities using XUnit.
-
-## Installation
-1. Download or clone the repository.
-2. Open the project in **Visual Studio**.
-3. Run the tests to validate functionality.
